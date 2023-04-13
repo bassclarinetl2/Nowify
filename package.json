@@ -13,7 +13,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "engines": : {
+  "engines": {
     "node" : "^14.0.0"
   },
   "dependencies": {
